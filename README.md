@@ -1,5 +1,1 @@
-<p>
-<img src="./Imagens/Print 1.png" height="500" wight="150" >
-<img src="./Imagens/Print 2.png" height="500" wight="150" >
-<img src="./Imagens/Print 3.png" height="500" wight="150" >
-</p>
+![King of Computing](https://github.com/user-attachments/assets/319c3368-ee59-486a-900d-82b5362a9cc0)
